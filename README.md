@@ -1,5 +1,7 @@
 # GCP_Customization
 This repository was maded for a project to Digital Innovation One Course. 
+ 
+ 
 This print screen it's about Dashboard customization. 
 ![CustomizedGCPDashboard](https://user-images.githubusercontent.com/48163195/209913223-f3e13770-65fa-49f1-98c5-3144eafe8558.png)
 
